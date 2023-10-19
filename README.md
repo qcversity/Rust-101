@@ -9,6 +9,7 @@
   - [Getting Started](#getting-started)
   - [Code](#code)
   - [Exercises](#exercises)
+  - [Contributing](#contributing)
   - [License](#license)
 
 ## Getting Started
@@ -31,6 +32,19 @@ The **Code** directory contains various Rust code examples that demonstrate diff
 The **exercises** directory contains a set of coding exercises to help you practice and deepen your understanding of Rust. These exercises cover a range of topics and difficulty levels, making them suitable for beginners and more experienced Rust programmers.
 
 If you're new to Rust, we recommend starting with the exercises in the **beginner** directory. As you become more comfortable with the language, you can tackle the challenges in the **intermediate** and **advanced** directories.
+
+## Contributing
+
+We welcome contributions from the Rust community! If you have code examples, exercises, or documentation improvements to offer, please feel free to open a pull request.
+
+1. Fork this repository.
+2. Create a new branch for your changes.
+3. Make your changes, add new examples, or improve existing ones.
+4. Test your changes if applicable.
+5. Commit your changes and create a descriptive pull request.
+6. Provide a clear and informative description of your contributions.
+
+We appreciate your help in making **Rust-101** a valuable resource for Rust learners.
 
 ## License
 
