@@ -7,6 +7,8 @@
 - [Rust-101](#rust-101)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
+  - [Code](#code)
+  - [Exercises](#exercises)
   - [License](#license)
 
 ## Getting Started
@@ -19,6 +21,16 @@ Once you have Rust and Cargo installed, you can clone this repository:
 git clone https://github.com/qcversity/Rust-101.git
 cd Rust-101
 ```
+
+## Code
+
+The **Code** directory contains various Rust code examples that demonstrate different aspects of the Rust programming language. You can explore these examples to understand Rust syntax, data types, and common programming patterns.
+
+## Exercises
+
+The **exercises** directory contains a set of coding exercises to help you practice and deepen your understanding of Rust. These exercises cover a range of topics and difficulty levels, making them suitable for beginners and more experienced Rust programmers.
+
+If you're new to Rust, we recommend starting with the exercises in the **beginner** directory. As you become more comfortable with the language, you can tackle the challenges in the **intermediate** and **advanced** directories.
 
 ## License
 
