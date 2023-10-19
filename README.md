@@ -1,7 +1,7 @@
 # Rust-101
-
-<img src="./assets/rust-logo.png" alt="Rust Logo" width="150;" background-color="yellow">
-
+<div style="background-color=yellow; width=100%;">
+<img src="./assets/rust-logo.png" alt="Rust Logo" width="150;" >
+</div>
 **Rust-101** is a repository that serves as a starting point for learning Rust programming. This repository contains example code, exercises, and resources to help you get started with **Rust**, a modern systems programming language known for its safety, speed, and concurrency features.
 
 ## Table of Contents
