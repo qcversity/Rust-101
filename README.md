@@ -8,6 +8,8 @@
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
   - [Code](#code)
+  - [Notebooks](#notebooks)
+    - [How to Use Rust Notebooks](#how-to-use-rust-notebooks)
   - [Exercises](#exercises)
   - [Contributing](#contributing)
   - [License](#license)
@@ -26,6 +28,24 @@ cd Rust-101
 ## Code
 
 The **Code** directory contains various Rust code examples that demonstrate different aspects of the Rust programming language. You can explore these examples to understand Rust syntax, data types, and common programming patterns.
+
+## Notebooks
+
+The **Notebooks** directory in this repository contains Jupyter notebooks written in Rust. These notebooks are a great resource for learning and experimenting with Rust in an interactive and documentation-friendly environment. Each notebook provides a hands-on approach to understanding various Rust concepts and can be a valuable resource for both beginners and experienced Rust programmers.
+
+### How to Use Rust Notebooks
+
+1. Ensure you have the `evcxr_jupyter` tool installed for Rust. If not, refer to the [Setting up Rust](./Setup/setup.md) section for instructions.
+
+2. Start a Jupyter Notebook server using `jupyter notebook` or `jupyter lab`.
+
+3. Navigate to the **Notebooks** directory, where you can find a collection of Rust notebooks.
+
+4. Open a notebook by clicking on its filename.
+
+5. You can run the code cells in the notebook to see the results interactively and explore the Rust code examples provided.
+
+These notebooks are designed to be a practical companion to your Rust learning journey. Explore, modify, and experiment with the Rust code within the notebooks to get the best out of these notebooks, and I hope they will helpful in your Rust programming endeabvors.
 
 ## Exercises
 
