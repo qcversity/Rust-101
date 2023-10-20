@@ -50,7 +50,7 @@ fn signed_integers_size() {
 }
 
 
-// 
+// A function that print unsigned integers
 fn print_unsigned_integers() {
     let u8_val: u8 = 123;
     let u16_val: u16 = 12345;
