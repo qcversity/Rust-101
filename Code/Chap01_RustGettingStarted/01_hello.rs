@@ -6,3 +6,4 @@ fn main(){
 fn hello(){
     println!("Hello Rust programming lang!");
 }
+
