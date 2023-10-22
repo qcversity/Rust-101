@@ -9,7 +9,8 @@
 - [Rust-101](#rust-101)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
-  - [Code](#code)
+  - [Code Directory](#code-directory)
+  - [Cargo Directory](#cargo-directory)
   - [Notebooks](#notebooks)
     - [How to Use Rust Notebooks](#how-to-use-rust-notebooks)
   - [Exercises](#exercises)
@@ -27,9 +28,21 @@ git clone https://github.com/qcversity/Rust-101.git
 cd Rust-101
 ```
 
-## Code
+## Code Directory
 
 The **Code** directory contains various Rust code examples that demonstrate different aspects of the Rust programming language. You can explore these examples to understand Rust syntax, data types, and common programming patterns.
+
+## Cargo Directory
+
+The **Cargo** directory contains a collection of scripts that demonstrate how to utilize the Cargo tool, which is the official build manager and package manager for the Rust programming language. These scripts are available in various formats, including batch and powershell files for Windows, and bash scripts for Unix-based systems. They serve as practical examples of how to work with Cargo to create, manage, and build Rust projects efficiently.
+
+- **create_project.bat**: This batch script showcases how to create a new Rust project using Cargo in a Windows environment. It initiates the project creation process and ensures that the necessary directory structure and files are set up.
+
+- **create_project.ps1**: The PowerShell script for Windows accomplishes the same task as `create_project.bat`. It demonstrates how to create a new Rust project with Cargo in a Windows environment but using PowerShell.
+
+- **create_project.sh**: The bash script is designed for Unix-based systems like Linux and macOS. It performs the task of creating a new Rust project using Cargo in a Unix-based environment.
+
+Each of these scripts provides practical examples for working with Rust projects and demonstrates the versatility of Cargo across different operating systems.
 
 ## Notebooks
 
