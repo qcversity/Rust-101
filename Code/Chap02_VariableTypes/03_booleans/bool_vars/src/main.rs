@@ -4,6 +4,9 @@ use practice::practice_with_bools;
 fn main() {
     make_separator();
     boolean_vars();
+    
+    make_separator();
+    is_programming_fun();
 
     make_separator();
     bool_vars_size();
@@ -38,6 +41,20 @@ fn boolean_vars() {
         is_ok, is_bad
     );
 }
+
+// Example 
+fn is_programming_fun() {
+    let is_rust_fun: bool = true;
+    let is_python_fun: bool = false;
+
+    if is_rust_fun {
+        println!("Rust is fun!");
+    } else {
+        println!("Python is fun!");
+    }
+}
+
+// Size of bool type
 
 fn bool_vars_size() {
     let x: bool = true;

@@ -1,3 +1,4 @@
+
 // Function to check if a number is even
 
 pub fn is_even(number: i32) -> bool {
