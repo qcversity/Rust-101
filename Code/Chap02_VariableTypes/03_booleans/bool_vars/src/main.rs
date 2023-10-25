@@ -4,7 +4,7 @@ use practice::practice_with_bools;
 fn main() {
     make_separator();
     boolean_vars();
-    
+
     make_separator();
     is_programming_fun();
 
@@ -45,7 +45,7 @@ fn boolean_vars() {
 // Example 
 fn is_programming_fun() {
     let is_rust_fun: bool = true;
-    let is_python_fun: bool = false;
+    let _is_python_fun: bool = false;
 
     if is_rust_fun {
         println!("Rust is fun!");
@@ -116,6 +116,8 @@ fn logical_not() {
     let b: bool = false;
     println!("a is {:<6} and not a is {:<5}", a, !a);
     println!("b is {:<6} and not b is {:<5}", b, !b);
+    println!("a and b is {:<10} and not (a and b) is ==>{}", a && b, !(a &&b));
+    println!("a or  b is {:<10} and not (a or b)  is ==>{}", a ||  b, !(a ||b));
 }
 
 // Simple function for formatting the output in the console
